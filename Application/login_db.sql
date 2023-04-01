@@ -5,6 +5,4 @@ CREATE TABLE login_tbl (
   usrname VARCHAR(255) NOT NULL,
   passwrd VARCHAR(255) NOT NULL);
 INSERT INTO login_tbl (usrname, passwrd)
-VALUES ('abhay', 'hellomoto');
-INSERT INTO login_tbl (usrname, passwrd)
 VALUES ('admin', '1234');
