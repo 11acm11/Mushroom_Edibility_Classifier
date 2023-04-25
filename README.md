@@ -1,5 +1,5 @@
-# Mushroom Edibility Classifier
-This is a mushroom edibility classifier built using machine learning techniques. The classifier provides a user-friendly web interface that allows users to input mushroom features and receive a prediction on the mushroom's edibility. This can be useful in identifying potentially dangerous mushrooms in the wild.
+# Mushroom Toxicity Classifier
+This is a mushroom toxicity classifier that accurately identifies edible and poisonous mushrooms built using machine learning techniques. The classifier provides a user-friendly web interface that allows users to input mushroom features and receive a prediction on the mushroom's edibility. This can be useful in identifying potentially dangerous mushrooms in the wild.
 
 # Dataset
 The dataset used for the model is the [Mushroom dataset](https://archive.ics.uci.edu/ml/datasets/mushroom) from UCI Machine Learning Repository.
